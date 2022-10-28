@@ -1,8 +1,8 @@
 /*Caroline Hana
 10-25-2022
 Asking for the users name and what time they woke up
-Peer Review- Marcel R. The program ran well. Asked for two strings which were name and time and output them in a sentence. Solid work :)
-*/
+Peer Review - Marcel R. The program ran well. Asked for two strings which were name and time and output them in a sentence. Solid work :)
+*/ 
 
 
 using System;
